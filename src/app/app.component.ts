@@ -1,5 +1,5 @@
 import { Component, VERSION } from "@angular/core";
-const circle = require("./markdowns/question1.md") as string;
+const readme = require("./markdowns/question1.md") as string;
 
 @Component({
   selector: "my-app",
